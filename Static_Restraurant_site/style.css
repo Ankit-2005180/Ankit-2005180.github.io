@@ -25,7 +25,7 @@ body{
 }
 .container
 {
-	background-color: grey;
+	background-color: rgb(255, 245, 245);
 	margin-top: 35px;
 }
 .text-center{
@@ -41,4 +41,33 @@ h2{
 }
 .navbar-brand{
 font-size: 30px;	
+}
+.aligncenter
+{
+	text-align: center;
+}
+#chickstory
+{
+	border: 2px solid red;
+	height: max-content;
+	padding: 10px;
+	margin: 10px;
+	background-color: rgba(236, 83, 56, 0.445);
+}
+
+#beefstory
+{
+	border: 2px solid red;
+	height: max-content;
+	padding: 10px ;
+	margin: 10px;
+	background-color: rgba(236, 83, 56, 0.445);
+}
+#sushistory
+{
+	border: 2px solid red;
+	height: max-content;
+	padding: 10px;
+	margin: 10px;
+	background-color: rgba(236, 83, 56, 0.445);
 }
